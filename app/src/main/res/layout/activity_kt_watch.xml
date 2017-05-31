@@ -7,6 +7,14 @@
     android:orientation="vertical"
     android:gravity="center"
     tools:context="com.selfviewdemo.WatchActivity">
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Kotlin自定义View"
+        android:paddingBottom="40dp"
+        android:textSize="15dp"
+        android:textColor="#333"
+        />
     <selfview.com.selfview.KTWatchView
         android:id="@+id/kt_watchview"
         android:layout_width="wrap_content"
