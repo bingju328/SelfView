@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--背景颜色-->
+    <color name="watchBackground">#FFFAFA</color>
+    <color name="whiteback">#FFFFFF</color>
+    <!--时针颜色-->
+    <color name="timePointer">#e1dcd6</color>
+    <!--分针颜色-->
+    <color name="minutePointer">#e1dcd6</color>
+    <!--秒针颜色-->
+    <color name="secondPointer">#F38412</color>
+</resources>
